@@ -33,6 +33,10 @@ public class User implements Serializable {
      */
     @TableField(value = "email")
     private String email;
+    
+    
+    
+    print("sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss")
 
     private static final long serialVersionUID = 1L;
 }
