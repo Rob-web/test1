@@ -31,7 +31,7 @@ public class User implements Serializable {
     /**
      * 邮箱
      */
-    @TableField(value = "email")
+    @TableField(value = "emailaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
     private String emailssssssssssssssssssss;
     
     

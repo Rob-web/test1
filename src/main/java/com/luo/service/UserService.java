@@ -10,6 +10,6 @@ public interface UserService extends IService<User>{
 
     int insertOrUpdate(User record);
 
-    int insertOrUpdateSelective(User record);
+    int insertOrUpdateSelective(User recordsssssssssssssssssssssssssssss);
 
 }
