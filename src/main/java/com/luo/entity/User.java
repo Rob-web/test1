@@ -32,11 +32,11 @@ public class User implements Serializable {
      * 邮箱
      */
     @TableField(value = "email")
-    private String email;
+    private String emailssssssssssssssssssss;
     
     
     
-    print("sssssssssssssssssssssssssssssssssssssssssssssssssssssssssss")
+
 
     private static final long serialVersionUID = 1L;
 }
