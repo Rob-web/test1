@@ -8,7 +8,7 @@ public interface UserService extends IService<User>{
 
     int batchInsert(List<User> list);
 
-    int insertOrUpdate(User record);
+    int insertOrUpdate(User recorda);
 
     int insertOrUpdateSelective(User recordsssssssssssssssssssssssssssss);
 
